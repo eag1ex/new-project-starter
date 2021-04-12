@@ -1,0 +1,1 @@
+Copy `./new-project` contents as your new project base, its already setup for working with `VSC`
